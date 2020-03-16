@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Text;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace _01._Email_Validator
 {
